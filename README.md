@@ -95,21 +95,7 @@ The final single PDF report must answer the following questions:
    3. What are the frequency values for **Disposition** for the selected state? 
    4. What is the mean, minimum, maximum, and sum of **Close_Amount** for the selected state? The statistics should be rounded to the nearest integer.
 
-<br>
 
-## **Repository Structure**
-
-This repository consists of the following files:
-
-```
-
-```
-
-
-- **README.md**: The current file you are reading. It provides an overview of the repository, case study descriptions, and other relevant information.
-- **LICENSE**: The license file for the project.
-
-Please note that the **TSA_Claims_Data_Analysis.sas** file should be used as the main entry point for accessing and executing the data analysis program.
 
 <br>
 
@@ -119,19 +105,6 @@ To run the TSA Claims Data Analysis program, you need an active account for eith
 
 <br>
 
-## **Usage**
-
-Follow the steps below to use the TSA Claims Data Analysis program:
-
-1. Download this repository to your local machine.
-2. Start **SAS Studio** from your SAS software.
-3. Within SAS Studio, create a new folder named **data** to store the dataset.
-4. Select the **data** folder and click on the **Upload** button.
-5. In the Upload File window, click **Choose Files** and browse to locate the **TSAClaims2002_2017.csv** file on your computer. Select the file and click **Open**. Click **Upload**. The **TSAClaims2002_2017.csv** file is added to the **data** folder on the SAS server. You should now have the dataset ready for use in the **TSA_Claims_Data_Analysis.sas** program.
-
-By following these steps, you can ensure that the necessary dataset is available for the TSA Claims Data Analysis program to run successfully.
-
-<br>
 
 ## **License**
 
