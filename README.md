@@ -90,10 +90,10 @@ The final single PDF report must answer the following questions:
 
 2. How many claims per year of **Incident_Date** are in the overall data? Be sure to include a plot.
 3. Lastly, a user should be able to dynamically input a specific state value and answer the following: 
-   1. What are the frequency values for **Claim_Type** for the selected state?
-   2. What are the frequency values for **Claim_Site** for the selected state? 
-   3. What are the frequency values for **Disposition** for the selected state? 
-   4. What is the mean, minimum, maximum, and sum of **Close_Amount** for the selected state? The statistics should be rounded to the nearest integer.
+   3.1. What are the frequency values for **Claim_Type** for the selected state?
+   3.2. What are the frequency values for **Claim_Site** for the selected state? 
+   3.3 What are the frequency values for **Disposition** for the selected state? 
+   3.4. What is the mean, minimum, maximum, and sum of **Close_Amount** for the selected state? The statistics should be rounded to the nearest integer.
 
 
 
