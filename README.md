@@ -4,9 +4,9 @@
 
 <br>
 
-For this case study, I undertook the preparation and analysis of claims data obtained from the **Transportation Security Administration (TSA)**, an agency under the *US Department of Homeland Security* responsible for ensuring the security of the traveling public. These claims are typically filed when travellers experience injuries or encounter loss or damage to their property during the airport screening process. The data encompasses the period from 2002 to 2017. The objective of this study is to conduct analyses and generate reports that encompass both the overall data and specific state-based breakdowns, if specified.
+In this case study, I performed the preparation and analysis of claims data provided by the Transportation Security Administration (TSA), a division of the US Department of Homeland Security tasked with ensuring the safety of travelers. These claims are filed by passengers who have experienced injuries, property loss, or damage during airport security screenings. The dataset spans the years 2002 to 2017. The primary goal of the analysis is to generate insights and reports that cover both nationwide trends and state-level breakdowns, where applicable.
 
-The case study data is in a CSV file named **TSAClaims2002_2017.csv**. This file was created from publicly available data from the *TSA* and the *Federal Aviation Administration*, or *FAA*. The TSA data has information about claims and the FAA data has information about USA airport facilities. The case study data was created by concatenating individual TSA airport claims data, removing some extra columns, and then joining the concatenated TSA claims data with the FAA airport facilities data.
+The case study utilizes a CSV file titled TSAClaims2002_2017.csv. This dataset was compiled using publicly accessible information from the TSA and the Federal Aviation Administration (FAA). It includes TSA data on claims and FAA data on airport facilities across the US. The dataset was created by merging individual TSA airport claims files, cleaning unnecessary columns, and integrating the consolidated claims data with FAA airport facilities information.
 
 The  **TSAClaims2002_2017.csv** file has 14 columns and over 220,000 rows. Below are columns it contains: 
 
