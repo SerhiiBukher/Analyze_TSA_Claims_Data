@@ -28,7 +28,7 @@ The case study addresses the following data and report requirements.
 
 ## Data Requirements
 
-- The raw data file **TSAClaims2002_2017.csv** must be imported into SAS and stored in a file named **claims_cleaned** in the **tsa** library.
+- The raw data file [**TSAClaims2002_2017.csv**](https://drive.google.com/file/d/1MO6qu-XSiHWF1KA_sWMWfdLfIjRJ141d/view?usp=sharing) must be imported into SAS and stored in a file named **claims_cleaned** in the **tsa** library.
 - Entirely duplicated records must be removed from the table.
 - All missing and ‘-‘ values in the columns **Claim_Type**, **Claim_Site**, and **Disposition** must be changed to Unknown.
 - If the claim is separated into two types by a slash, **Claim_Type** is the first type. Values in the column **Claim_Type** must be one of 14 valid values:
