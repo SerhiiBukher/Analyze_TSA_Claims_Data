@@ -3,8 +3,7 @@
 [![Platform - SAS 9.4](https://img.shields.io/badge/Platform-SAS_9.4-0766d1)](https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.5/whatsnew/p07ec8vqwrr6i9n1ptnai8ui5ebo.htm)
 
 <br>
-
-In this case study, I performed the preparation and analysis of claims data provided by the Transportation Security Administration (TSA), a division of the US Department of Homeland Security tasked with ensuring the safety of travelers. These claims are filed by passengers who have experienced injuries, property loss, or damage during airport security screenings. The dataset spans the years 2002 to 2017. The primary goal of the analysis is to generate insights and reports that cover both nationwide trends and state-level breakdowns, where applicable.
+You've been asked to prepare and analyze claims data from the Transportation Security Administration, or TSA. The TSA is an agency of the US Department of Homeland Security that has authority over the security of the traveling public. Claims are filed if travelers are injured or their property is lost or damaged during the screening process at an airport. You have data for claims filed between 2002 and 2017. You don't really know what you'll find in the data yet, but you know eventually you will need to analyze and report on the overall data and also by any specified state.
 
 The case study utilizes a CSV file titled TSAClaims2002_2017.csv. This dataset was compiled using publicly accessible information from the TSA and the Federal Aviation Administration (FAA). It includes TSA data on claims and FAA data on airport facilities across the US. The dataset was created by merging individual TSA airport claims files, cleaning unnecessary columns, and integrating the consolidated claims data with FAA airport facilities information.
 
